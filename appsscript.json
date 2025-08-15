@@ -1,0 +1,21 @@
+{
+  "timeZone": "Asia/Seoul",
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "sheets": {
+    "macros": [{
+      "menuName": "show only active",
+      "functionName": "showonlyactive",
+      "defaultShortcut": "Ctrl+Alt+Shift+1"
+    }, {
+      "menuName": "logDone정렬 종류 산날짜 번호",
+      "functionName": "myFunction"
+    }, {
+      "menuName": "정렬logDone화페/날짜/번호",
+      "functionName": "myFunction",
+      "defaultShortcut": "Ctrl+Alt+Shift+2"
+    }]
+  }
+}
